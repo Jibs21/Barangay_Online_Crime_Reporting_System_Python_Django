@@ -1,0 +1,33 @@
+IDE Tool (Recommended)
+
+Visual Studio, PyCharm
+
+-----------------------------------------------------------------------------------------------------------------------------
+Install the Django Module in the cmd. 
+
+pip install django
+
+pip install pillow
+
+pip install django-cleanup
+
+pip install django-widget-tweaks
+
+pip install Django django-rest-framework
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Go inside the project folder, open cmd and type the following commands to install Django Framework and run the webserver:
+
+python manage.py migrate
+
+python manage.py runserver
+
+--------------------------------------------------------------------------------------------------------------------------------
+open the browser and go to http://127.0.0.1:8000/
+
+
+
+ADMIN ACCT
+USERNAME:barangayofficial
+PASSWORD:123456
